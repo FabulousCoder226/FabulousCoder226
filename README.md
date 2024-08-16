@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**FabulousCoder226/FabulousCoder226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am Ebube Victor
 
-Here are some ideas to get you started:
+## A Data Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- I'm interested in data analysis: clean, transform, model and analyze data for to boost growth and expansion in business sector
+- 🔭 I’m currently working on Data Analysis
+- 🌱 I’m using SQL, PowerBi, Python, Tableau and advanced Excel
+- 👯 I’m looking to collaborate with individuals, co-operater organizations that are interested in solving problems and improving business via analysis 
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about I'm good and gathering and analyzing data with sole intention of giving solutions in businesses
+- 📫 How to reach me: [linkedin](www.linkedin.com/in/ebube-victor-a0197625b)
+- 😄 Pronouns: Him
+- ⚡ Fun fact: Sports
+
+
